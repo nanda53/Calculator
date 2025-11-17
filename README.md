@@ -6,11 +6,9 @@ This project performs all basic arithmetic operations and is perfect for beginne
 ---
 
 ## 🚀 Live Demo  
-(Replace with your GitHub Pages link after deployment)
 
-```
-https://nanda53.github.io/calculator/
-```
+**https://nanda53.github.io/Calculator/**
+
 ---
 
 ## 📂 Project Structure
